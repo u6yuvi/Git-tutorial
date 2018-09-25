@@ -1,1 +1,2 @@
-My first .txt file
+My first .txt file.
+Adding new lines
